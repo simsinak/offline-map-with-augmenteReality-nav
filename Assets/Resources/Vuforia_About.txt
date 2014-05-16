@@ -1,0 +1,20 @@
+The Video Playback sample shows how to detect an image target and play video on top of it.
+
+Key Functionality
+- Play video on target for devices that support (devices that don't support will play full screen)
+- Optionally play video full screen in native player
+- Activate Extended Tracking
+- Manage camera functions: flash and continuous autofocus
+
+Targets
+https://developer.vuforia.com/sites/default/files/sample-apps/targets/videoplayback_targets.pdf
+
+Instructions
+- Point camera at target to view
+- Tap video to play
+- Double tap to access options menu
+
+Terms of Use
+https://developer.vuforia.com/legal/EULA
+
+© 2012-2013 Qualcomm Connected Experiences, Inc. All Rights Reserved.

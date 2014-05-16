@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="polis" size="200.000000 253.521133" />
+    <ImageTarget name="hafez_4" size="200.000000 294.623657" />
+    <ImageTarget name="hafez_3" size="200.000000 287.200012" />
+    <ImageTarget name="hafez_2" size="200.000000 266.666656" />
+    <ImageTarget name="hafez_1" size="200.000000 180.000000" />
+  </Tracking>
+</QCARConfig>

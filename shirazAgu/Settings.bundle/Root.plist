@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Map Search</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>POI language</string>
+			<key>Key</key>
+			<string>poi_language_pref</string>
+			<key>DefaultValue</key>
+			<string>en</string>
+			<key>Values</key>
+			<array>
+				<string>fa</string>
+				<string>fr</string>
+				<string>en</string>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>Islamic Republic of Iran</string>
+				<string>French</string>
+				<string>United States of America</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Distance Metric</string>
+			<key>Key</key>
+			<string>distance_metric_pref</string>
+			<key>DefaultValue</key>
+			<string>meter</string>
+			<key>Titles</key>
+			<array>
+				<string>meter</string>
+				<string>yard</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>meter</string>
+				<string>yard</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>google know you&apos;re a device</string>
+			<key>Key</key>
+			<string>sensor_pref</string>
+			<key>DefaultValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Show introduction</string>
+			<key>Key</key>
+			<string>show_intro_pref</string>
+			<key>DefaultValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Title</key>
+			<string>Version</string>
+			<key>DefaultValue</key>
+			<string>1.0 (sk5403)</string>
+			<key>Key</key>
+			<string>version_pref</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string></string>
+			<key>FooterText</key>
+			<string>                     Copyright © 2014</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>Title</key>
+			<string>acknowledgement</string>
+			<key>File</key>
+			<string>acknowledgement</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>
