@@ -1,0 +1,16 @@
+This is a an offline map                                                                  
+which have used MapBox for offline map  &                                                                                
+using augmented reality for showing around POI
+which have used AR sdk
+and finally showing a video base on image processing
+which have used Vuforia SDK for it 
+
+
+
+How to use it...
+for reduceing the project size the offline map removed from project so after downloading  put your map with mbTiles extension to the project folder and in the viewcController.m   change the iran-shiraz-1   in line 21    RMMBTilesSource *content=[[RMMBTilesSource alloc]initWithTileSetResource:@"iran-shiraz-1"];     with your mbtile map name....then in build phase setting section add the map to "Copy bundle resources"....image processong section of app created with Unity engine so i'm not sure you need it for executing or not so if you encounter the error please install unity engine too...
+
+http://www.xum.ir/images/2014/05/17/page1_copy_2.png
+http://www.xum.ir/images/2014/05/17/page2_copy.png
+http://www.xum.ir/images/2014/05/17/page3_copy.png
+http://www.xum.ir/images/2014/05/17/page4_copy.png
