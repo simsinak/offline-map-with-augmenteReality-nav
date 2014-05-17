@@ -1,10 +1,11 @@
-This is a an offline map                                                                  
+This is my project in shiraz university of technology
+an offline map                                                                  
 which have used MapBox for offline map  &                                                                                
 using augmented reality for showing around POI
 which have used AR sdk
 and finally showing a video base on image processing
 which have used Vuforia SDK for it 
-
+note:compile the project on iphone not simulator unless you will get error
 
 
 How to use it...
@@ -14,3 +15,23 @@ http://www.xum.ir/images/2014/05/17/page1_copy_2.png
 http://www.xum.ir/images/2014/05/17/page2_copy.png
 http://www.xum.ir/images/2014/05/17/page3_copy.png
 http://www.xum.ir/images/2014/05/17/page4_copy.png
+
+
+این یک نقشه آفلاین است که توسط مپ باکس ساخته شده و 
+از واقعیت افزوده برای نمایش مکان های عمومی اطراف استفاده شده که از یک مجموعه توسعه نرم افزار واقعیت افزوده استفاده شده است
+همچنین توانایی پردازش محیط اطراف جهت تشخیص اماکن عمومی معروف جهت پخش یک ویدیو اطلاعاتی در مورد محیط مشخص
+بر پایه پردازش تصویر وفوریا است
+نحوه ی استفاده:
+جهت کاهش حجم نرم افزار نقشه افلاین از آن خارج شده،،،شما مس توانید پس از دانلود نقشه آفلاین ام بی تایلز خود آن را وارد 
+پروژه کرده و در فایل viewcontroller.m
+در خط ۲۱ نام iran-shiraz-1
+را به نام نقشه خود تغییر داده
+و در builtphase setting
+نقشه را در copy bundle resources 
+اضافه نمایید...
+قسمت پردازش تصویر توسط موتور یونیتی نوشته شده لذا جهت مواجه با خود یونیتی را نیز نصب نمایید
+نکته:پروژه را بر روی کوشی کامپایل کنید در شبیه ساز کامپایل نمی شود
+
+
+copyright © 2013-2014  sina askarnejad  all rights reserved .copy of this project and using it any where must be with the resource
+mentioning and name of sina askarenajd
