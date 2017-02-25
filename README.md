@@ -15,7 +15,7 @@ RMMBTilesSource *content=[[RMMBTilesSource alloc]initWithTileSetResource:@"iran-
 
 Then in the _build phase setting_ add the map to *Copy bundle resources*.
 
-![pic1](http://img4.imagetitan.com/img.php?image=15_page1.png)
+![pic1](http://www.axgig.com/images/83807328792515708386.png)
 ![pic2](http://img4.imagetitan.com/img.php?image=15_page2.png)
 ![pic3](http://img4.imagetitan.com/img.php?image=15_page3.png)
 ![pic4](http://img4.imagetitan.com/img.php?image=15_page4.png)
