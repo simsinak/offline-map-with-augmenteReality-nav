@@ -1,2 +1,3 @@
 static/Library/ linguist-vendored
 static/Assets/ linguist-vendored
+*.* linguist-language=Objective-C
